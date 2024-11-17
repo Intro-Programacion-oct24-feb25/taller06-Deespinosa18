@@ -1,4 +1,5 @@
 # taller06
+# Integranges: Diego Espinosa, Joel Dominguez 
 
 ### Problema01
 
@@ -54,3 +55,5 @@ acuerdo a lo siguiente:
 Tomado de: López Román, Leobardo. (2013) Metodología de la programación orientada a
 objetos. México. hYps://visorweb.utpl.edu.ec/library/publica'on/metodologia-
 de-la-programacion-orientada-a-objetos-1603157739
+
+
